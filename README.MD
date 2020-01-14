@@ -10,3 +10,7 @@ docker images
 4)To run , use the following command :
 
 docker run -p 8085:5454 spring-boot-docker
+
+5)To list all running containter use the following command :
+
+docker ps -a
